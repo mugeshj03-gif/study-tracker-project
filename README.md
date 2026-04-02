@@ -45,7 +45,7 @@ study-tracker/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/study-tracker.git
+git clone https://github.com/mugeshj03-gif/study-tracker-project.git
 cd study-tracker
 
 2. Install dependencies
