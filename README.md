@@ -1,14 +1,20 @@
 📚 Study Tracker Application
 
-A complete Study Tracker application built using Python, Tkinter, MySQL, and  Pandas and Matplotlib to track and analyze daily study activities.
+A Python-based Study Tracker application that helps users record, store, and visualize daily study activities through an interactive GUI. This project demonstrates data handling, database integration, and data visualization.
+
+---
+
+📸 Screenshots
+
+"UI" (screenshots/ui.png)
 
 ---
 
 🚀 Features
 
-- 🧾 Add daily study records
+- 🧾 Add and manage daily study records
 - 📊 Visualize study data using graphs
-- 🗄️ Store data in SQL database
+- 🗄️ Store and retrieve data from SQL database
 - 🖥️ User-friendly interface using Tkinter
 
 ---
@@ -16,7 +22,7 @@ A complete Study Tracker application built using Python, Tkinter, MySQL, and  Pa
 🛠️ Technologies Used
 
 - Python
-- Tkinter (GUI)
+- Tkinter (GUI Development)
 - SQL ( MySQL)
 - Pandas
 - Matplotlib (Data Visualization)
@@ -26,23 +32,27 @@ A complete Study Tracker application built using Python, Tkinter, MySQL, and  Pa
 📂 Project Structure
 
 study-tracker/
-
-- main.py
-- database.sql
-- requirements.txt
-- README.md
-- data/
-- screenshots/
+│── main.py
+│── database.sql
+│── requirements.txt
+│── README.md
+│── data/
+│── screenshots/
 
 ---
 
 ▶️ How to Run
 
-1. Install dependencies
+1. Clone the repository
+
+git clone https://github.com/your-username/study-tracker.git
+cd study-tracker
+
+2. Install dependencies
 
 pip install -r requirements.txt
 
-2. Run the application
+3. Run the application
 
 python main.py
 
@@ -50,20 +60,26 @@ python main.py
 
 📊 Output
 
-- Graphs showing study hours
+- Graphical representation of study hours
 - Data stored and retrieved from database
-- Interactive UI for input
+- Interactive UI for easy input
 
 ---
 
 🔮 Future Improvements
 
-- Add login system
-- Add export to Excel
-- Add reminders
+- 🔐 Add user authentication system
+- 📤 Export data to Excel/CSV
+- ⏰ Add reminders and notifications
 
 ---
 
 👨‍💻 Author
 
 Mugesh J
+
+---
+
+⭐ Acknowledgement
+
+This project was built as part of learning Python, SQL, and Data Analysis concepts.
