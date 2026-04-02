@@ -1,6 +1,6 @@
 📚 Study Tracker Application
 
-A complete Study Tracker application built using Python, Tkinter, SQL, and Matplotlib to track and analyze daily study activities.
+A complete Study Tracker application built using Python, Tkinter, SQL, and  Pandas and Matplotlib to track and analyze daily study activities.
 
 ---
 
@@ -18,6 +18,7 @@ A complete Study Tracker application built using Python, Tkinter, SQL, and Matpl
 - Python
 - Tkinter (GUI)
 - SQL (SQLite / MySQL)
+- Pandas
 - Matplotlib (Data Visualization)
 
 ---
